@@ -35,4 +35,4 @@ CODE SNIPPET:
 ```plt.show()```
 
 
-![ScreenShot](Edge.PNG)
+![](Edge.PNG)
